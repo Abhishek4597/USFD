@@ -5,7 +5,7 @@
 
 | **Main Interface** | **Defect Classification Workflow** |
 |:---:|:---:|
-| ![USFD Main Page](https://via.placeholder.com/600x400/2d3748/ffffff?text=USFD+Main+Interface+Screenshot) | ![Defect Classification](https://via.placeholder.com/600x400/4a5568/ffffff?text=Defect+Classification+Screenshot) |
+| ![USFD Main Page](https://github.com/Abhishek4597/USFD/blob/e04615073749022942894494541853db0470dcf2/Screenshot%202026-01-08%20144033.png) | ![Defect Classification](https://via.placeholder.com/600x400/4a5568/ffffff?text=Defect+Classification+Screenshot) |
 | *USFD MODULE (Trial Version) - Home Screen* | *Interactive defect selection with dropdown menus* |
 
 | **Parameter Selection** | **Results Display** |
