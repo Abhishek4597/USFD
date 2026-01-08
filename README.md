@@ -18,7 +18,6 @@
 
 - **🌐 Original USFD System:** [wiki.iricen.gov.in/USFD/Main.jsp](https://wiki.iricen.gov.in/USFD/Main.jsp)
 - **📁 This Repository:** [github.com/Abhishek4597/USFD](https://github.com/Abhishek4597/USFD)
-- **🐛 Report Issues:** [GitHub Issues](https://github.com/Abhishek4597/USFD/issues)
 
 ---
 
