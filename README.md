@@ -5,12 +5,10 @@
 
 | **Main Interface** | 
 |:---:|:---:|
-
 | ![USFD Main Page](https://github.com/Abhishek4597/USFD/blob/e04615073749022942894494541853db0470dcf2/Screenshot%202026-01-08%20144033.png) 
 | *USFD MODULE (Trial Version) - Home Screen* | 
 | **Parameter Selection** |
 |:---:|:---:|
-
 | ![Parameter Screen](https://github.com/Abhishek4597/USFD/blob/4e657cd67652ccd663e1cb41b6d00eb4d388a9ca/Screenshot%202026-01-08%20144118.png) |
 | *Multi-level hierarchical dropdowns* | 
 
