@@ -10,7 +10,7 @@
 
 | **Parameter Selection** | **Results Display** |
 |:---:|:---:|
-| ![Parameter Screen](https://via.placeholder.com/600x400/2d3748/ffffff?text=Parameter+Selection+Screenshot) | ![Results Screen](https://via.placeholder.com/600x400/4a5568/ffffff?text=Results+Display+Screenshot) |
+| ![Parameter Screen](https://github.com/Abhishek4597/USFD/blob/4e657cd67652ccd663e1cb41b6d00eb4d388a9ca/Screenshot%202026-01-08%20144118.png) | ![Results Screen](https://via.placeholder.com/600x400/4a5568/ffffff?text=Results+Display+Screenshot) |
 | *Multi-level hierarchical dropdowns* | *IMR/OBS defect classification results* |
 
 ---
